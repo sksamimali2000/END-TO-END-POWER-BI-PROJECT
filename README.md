@@ -87,6 +87,3 @@ Main Dashboard
 Month-to-Date Report
 
 Year-over-Year Comparison
-📬 Contact
-👤 Your Name
-   roy871858@gmail.com
